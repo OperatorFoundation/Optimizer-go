@@ -1,4 +1,4 @@
-module github.com/OperatorFoundation/shapeshifter-transports/transports/Optimizer/v3
+module github.com/OperatorFoundation/Optimizer-go/Optimizer/v3
 
 go 1.12
 
