@@ -3,7 +3,7 @@ module github.com/OperatorFoundation/Optimizer-go/Optimizer/v3
 go 1.17
 
 require (
-	github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.0
+	github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.1
 	github.com/kataras/golog v0.0.18
 )
 

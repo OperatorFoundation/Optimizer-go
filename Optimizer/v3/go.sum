@@ -1,5 +1,5 @@
-github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.0 h1:qFeZYkTEe5XDV1t4q4vJBunVblq7VA20AnvqK+3r68M=
-github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.0/go.mod h1:tJskzmqFztA8KApTLj7i5IOSN0oLaUQsEwhPcTDcodQ=
+github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.1 h1:gZlvVZdwWHhLpVtqoavvmueU58rOffO7wTG3Q80DJsk=
+github.com/OperatorFoundation/Shadow-go/shadow/v3 v3.0.1/go.mod h1:tJskzmqFztA8KApTLj7i5IOSN0oLaUQsEwhPcTDcodQ=
 github.com/OperatorFoundation/go-shadowsocks2 v1.1.0 h1:QAD/eCT3+tj4XonypMApUJNiKxDpIkYi5ywmRJfbLq0=
 github.com/OperatorFoundation/go-shadowsocks2 v1.1.0/go.mod h1:paPY4LTOVMxWJ4ojsR3dsEfOqXAhwwqZY44rN/QBS0s=
 github.com/aead/ecdh v0.2.0 h1:pYop54xVaq/CEREFEcukHRZfTdjiWvYIsZDXXrBapQQ=
