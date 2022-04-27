@@ -22,7 +22,7 @@
 	SOFTWARE.
 */
 
-// Package optimizer provides a PT 2.0 Go API wrapper around the connections used
+// Package optimizer provides a PT 3.0 Go API wrapper around the connections used
 package optimizer
 
 import (

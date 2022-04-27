@@ -21,17 +21,11 @@ Here is a list of the currently available Optimizer strategies:
 Optimizer is one of the transports available in the [Shapeshifter-Transports library](https://github.com/OperatorFoundation/Shapeshifter-Transports).
 
 1. First you will need to initialize the transports you would like Optimizer to use:
-    `dialer := proxy.Direct
-	obfs4Transport := obfs4.Transport{
-		CertString: "InsertCertStringHere",
-		IatMode:    0 or 1,
-		Address:    "InsertAddressHere",
-		Dialer:     dialer,
-	}`
+    `dialer := proxy.Direct`
 	`shadowTransport := shadow.Transport{"InsertPasswordHere", "InsertCipherNameHere", "InsertAddressHere"}`
 	
 2. Create an array with these transports:
-    `transports := []Transport{obfs4Transport, shadowTransport}`
+    `transports := []Transport{shadowTransport}`
     
 3. Initialize the strategy of your choice using the array of transports you created:
     `strategy := NewMinimizeDialDuration(transports)`
